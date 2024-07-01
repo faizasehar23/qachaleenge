@@ -1,6 +1,0 @@
-node_modules
-*.lock
-cypress/screenshots
-cypress/video
-.gitignore
-results

@@ -7,7 +7,7 @@ module.exports = defineConfig({
   defaultCommandTimeout: 8000,
   video:true, 
   env: {
-    apiUrl : "https://localhost:8000"
+    apiUrl : "http://localhost:8000"
   },
   e2e: {
     setupNodeEvents(on, config) {
